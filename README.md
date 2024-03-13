@@ -4,7 +4,7 @@
 
 |||
 |---|---|
-|Hello|[![Discord server](./discordicon2.png)](https://discord.gg/5xtYD4CGnE)|
+|Discord server|[![Discord server](./discordicon2.png)](https://discord.gg/5xtYD4CGnE)|
 
 `Hello!`
 
@@ -23,7 +23,7 @@ __*이텔릭체*와 두껍게__ 를 혼용할 수도 있습니다.
 취소선은 ~~물결 기호(tilde)~~ 를 사용하세요.
 <u>밑줄</u>은 마크다운에서 지원하지 않기에, 직접 `<u></u>` 태그를 사용하세요.
 
-- hd2
+## hd2
 
 | 값 | 의미 | 기본값 |
 |---|:---:|---:|
@@ -41,6 +41,6 @@ __*이텔릭체*와 두껍게__ 를 혼용할 수도 있습니다.
 `fixed` | 브라우저 창을 기준으로 배치 |
 `sticky` | 스크롤 영역 기준으로 배치 |
 
-### hd3
+## hd3
 
 금요일
