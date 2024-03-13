@@ -1,10 +1,10 @@
-oss_first
+# oss_first
 ------------------
-# first github Repositoriy
+## first github Repositoriy
 
 |||
 |---|---|
-|Hello|[![Discord server](./discord.png)](https://discord.gg/5xtYD4CGnE)|
+|Hello|[![Discord server](./discordicon.png)](https://discord.gg/5xtYD4CGnE)|
 
 `Hello!`
 
