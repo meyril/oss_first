@@ -4,7 +4,7 @@ oss_first
 
 |||
 |---|---|
-|Hello|[![Discord server]()](https://discord.gg/5xtYD4CGnE)|
+|Hello|[![Discord server](./discord.png)](https://discord.gg/5xtYD4CGnE)|
 
 `Hello!`
 
