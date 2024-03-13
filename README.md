@@ -4,15 +4,17 @@ oss_first
 
 |||
 |---|---|
-|Hello|[![Discord server](https://discord.gg/5xtYD4CGnE)]|
+|Hello|[![Discord server]()](https://discord.gg/5xtYD4CGnE)|
 
 `Hello!`
 
-- head1
->1. what
->>2024 oss 개발
+## 강의목표
+이론 수업은 OSS에 대한 배경과 관련된 전반적인 기술/사회적인 지식을 습득한다. 실습은 프로젝트 수행을 위한 여러 컴포넌트에 대한 이해와 접근에 대해 개괄적으로 체험한다. 개별 과제는 수업 이후에 프로젝트로 진행하기 위한 문제과 해결과정을 설계 및 수행하는 것을 목표한다.
+- 학생은 오픈소스 SW 생태계의 기술적인 인프라구조를 이해 할 수 있다.
+- 학생은 프로그램 설계부터 개선까지 일련의 과정에 대해서 계획 및 설계할 수 있다
+- 학생은 협력 프로젝트 수행을 위한 도구와 과정에 대해 이해할 수 있다.
 
-markdown
+markdown 언어
 
 이텔릭체는 *별 기호(Asterisks)* 혹은 _언더바 기호(Underscore)_ 를 사용하세요.
 두껍게는 **별 기호(asterisks)** 혹은 __언더바 기호(underscore)__ 를 2번씩 사용하세요.
