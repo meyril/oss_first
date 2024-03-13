@@ -4,7 +4,7 @@
 
 |||
 |---|---|
-|Hello|[![Discord server](./discordicon.png)](https://discord.gg/5xtYD4CGnE)|
+|Hello|[![Discord server](./discordicon2.png)](https://discord.gg/5xtYD4CGnE)|
 
 `Hello!`
 
