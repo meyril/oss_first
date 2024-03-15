@@ -1,4 +1,4 @@
-# oss_first
+oss_first
 ------------------
 ## first github Repositoriy
 
