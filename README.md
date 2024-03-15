@@ -6,7 +6,7 @@
 |---|---|
 |Discord server|[![Discord server](./discordicon2.png)](https://discord.gg/5xtYD4CGnE)|
 
-`Hello!`
+`Hello! GitHub!`
 
 ## 강의목표
 이론 수업은 OSS에 대한 배경과 관련된 전반적인 기술/사회적인 지식을 습득한다. 실습은 프로젝트 수행을 위한 여러 컴포넌트에 대한 이해와 접근에 대해 개괄적으로 체험한다. 개별 과제는 수업 이후에 프로젝트로 진행하기 위한 문제과 해결과정을 설계 및 수행하는 것을 목표한다.
@@ -16,12 +16,14 @@
 
 
 ## markdown 언어 공부하기 (강의X)
+이텔릭체는 *별 기호(Asterisks)* 혹은 _언더바 기호(Underscore)_ 를 사용하세요.
 
-이텔릭체는 *별 기호(Asterisks)* 혹은 _언더바 기호(Underscore)_ 를 사용하세요. ...
-두껍게는 **별 기호(asterisks)** 혹은 __언더바 기호(underscore)__ 를 2번씩 사용하세요. ...
+두껍게는 **별 기호(asterisks)** 혹은 __언더바 기호(underscore)__ 를 2번씩 사용하세요.
+
 __*이텔릭체*와 두껍게__ 를 혼용할 수도 있습니다.
 
-취소선은 ~~물결 기호(tilde)~~ 를 사용하세요. ...
+취소선은 ~~물결 기호(tilde)~~ 를 사용하세요.
+
 <u>밑줄</u>은 마크다운에서 지원하지 않기에, 직접 `<u></u>` 태그를 사용하세요.
 
 | 값 | 의미 | 기본값 |
@@ -34,6 +36,9 @@ __*이텔릭체*와 두껍게__ 를 혼용할 수도 있습니다.
 
 ## 2주차 금요일
 - 강의목표
-    Vscode 와 github 연동하기. ...
-    https://github.com/meyril/oss_first.git ...
-    커밋, 푸시 해보기 ...
+
+    1. Vscode 와 github 연동하기
+
+    2. https://github.com/meyril/oss_first.git
+
+    3. 커밋, 푸시 해보기
